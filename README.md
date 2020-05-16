@@ -2,13 +2,20 @@
 
 ## Kata Description
 
-Create a node.js program that handle length measurements conversion.
+Create a node.js length conversion libaray that will be used by other systems.
 
 - 1 foot = 12 inch
 - 1 yard = 3 foot
 - 1 inch = 1/36 yard
 
-We currently only implemented conversion from foot to inch
+We've implemented conversion from foot to inch, we need to complete following requirements:
+
+1. 1 foot = 1/3 yard
+2. 1 inch = 1/12 foot
+3. 1 inch = 1/36 yard
+4. 1 yard = 3 foot
+5. 1 yard = 35 inch
+
 
 ## How to start
 
